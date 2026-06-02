@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="ar">
+<head><meta charset="UTF-8"><title>الإعدادات</title></head>
+<body>
+<h1>إعدادات التنبيهات</h1>
+<form>
+<label>تنبيه عند الفشل: <input type="checkbox" name="alert"></label>
+<button type="submit">حفظ</button>
+</form>
+</body>
+</html>
